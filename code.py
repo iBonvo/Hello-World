@@ -513,7 +513,7 @@ def generate_concluding_thoughts(data, info):
 
 # --- STRUTTURA PRINCIPALE DELL'APP STREAMLIT ---
 def run_app():
-    st.title("📈 Stock Analyzer Pro 📊")
+    st.title("📈 Bonvo Stock Analyzer Pro 📊")
     st.markdown("Un'applicazione per l'analisi tecnica e fondamentale di base dei titoli azionari.")
 
     ticker_symbol_input = st.text_input("Inserisci il simbolo del ticker (es. AAPL, MSFT, NVDA):", "AAPL", key="ticker_input").upper()
