@@ -4,6 +4,6 @@ yfinance
 pandas
 matplotlib
 mplfinance
-# tabulate # Se alla fine non lo usi, puoi ometterlo
+tabulate # Se alla fine non lo usi, puoi ometterlo
 numpy
 ta
