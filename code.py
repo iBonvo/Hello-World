@@ -15,7 +15,7 @@ from datetime import datetime, timezone # Importa timezone per fromisoformat
 import json
 
 # --- IMPOSTAZIONE PAGINA (DEVE ESSERE IL PRIMO COMANDO STREAMLIT) ---
-st.set_page_config(layout="wide", page_title="Stock Analyzer Pro")
+st.set_page_config(layout="wide", page_title="Bonvo Stock Analyzer Pro")
 
 # --- CONFIGURAZIONI GLOBALI DELL'APP ( tramite Streamlit Sidebar) ---
 st.sidebar.header("Configurazioni Indicatori")
